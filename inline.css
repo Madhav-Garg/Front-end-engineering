@@ -57,3 +57,19 @@
     left: 150px;
     padding: 60px;
 }
+
+.container{
+    display: flex;
+    border: 2px solid black;
+    margin: 30px;
+    padding: 50px;
+   
+}
+
+.boxe {
+    display: flex;
+    /* margin: 10px; */
+    margin-right: auto;
+    border: 2px solid black;
+    padding: 30px;
+}
